@@ -1,0 +1,214 @@
+html
+{
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.bg
+{
+    width: 1260px;
+    height: 880px;
+    background-color: #EDF2C5;
+}
+
+.title
+{
+    height: 62px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.logo
+{
+    font-size: 44px;
+    color: #778A50;
+    font-weight: 900;
+}
+
+.btnlist
+{
+    height: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.btnimg
+{
+    height: 25px;
+    width: 25px;
+    padding-right: 10px;
+}
+
+.btn1
+{
+    height: 25px;
+    width: 60px;
+    border: solid 1px;
+    border-radius: 3px;
+    color: #778A50;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #778A50;
+    text-align: center;
+    line-height: 25px;
+    margin-left: 10px;
+}
+
+.btn2
+{
+    height: 25px;
+    width: 50px;
+    border: solid 1px;
+    border-radius: 3px;
+    color: #778A50;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #778A50;
+    text-align: center;
+    line-height: 25px;
+    margin-left: 10px;
+}
+
+.SpaceLine
+{
+    width: 1px;
+    height: 25px;
+    background-color: #778A50;
+}
+
+.nav
+{
+    width: 940px;
+    height: 44px;
+    display: flex;
+    border-radius: 3px;
+    background-color: #778A50;
+    align-items: center;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.navword
+{
+    font-size: 16px;
+    color: #EDF2C5;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.MainImg
+{
+    width: 940px;
+    height: 448px;
+    margin-top: 20px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.VegeContact
+{
+    width: 940px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.Vegetables
+{
+    width: 445px;
+}
+
+.Vegeword
+{
+    width: 415px;
+    height: 45px;
+    display: flex;
+    border-radius: 3px;
+    background-color: #778A50;
+    align-items: center;
+    font-size: 16px;
+    color: #EDF2C5;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 30px;
+}
+
+.VegeImg
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Contact
+{
+    width: 445px;
+}
+
+.Contactword
+{
+    width: 415px;
+    height: 45px;
+    display: flex;
+    border-radius: 3px;
+    background-color: #778A50;
+    align-items: center;
+    font-size: 16px;
+    color: #EDF2C5;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 30px;
+}
+
+.ContactWord
+{
+    width: 415px;
+    height: 140px;
+    border-radius: 3px;
+    background-color: #F7fBDA;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.FirstSen
+{
+    font-size: 12px;
+    color: #7D7D7D;
+    line-height: 1.33;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.SecondSen
+{
+    font-size: 12px;
+    color: #7D7D7D;
+    line-height: 1.83;
+    align-items: center;
+}
+
+.Foot
+{
+    width: 1260px;
+    height: 60px;
+    background: #778A50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footword
+{
+    font-size: 12px;
+    color: #EDF2C5;
+}
